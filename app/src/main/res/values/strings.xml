@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VidDTP</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_upload">Загрузить видео</string>
+    <string name="title_map">Карта</string>
+    <string name="title_profile">Профиль</string>
+</resources>
